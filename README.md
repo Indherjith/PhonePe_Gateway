@@ -11,8 +11,6 @@ PhonePe_Gateway is a backend project made up of Node.js. In this project, People
 - [3. Installation](#3-installation)
 - [4. Usage](#4-usage)
 - [5. Features](#5-features)
-- [6. Contributing](#6-contributing)
-- [7. License](#7-license)
 ## Installation
 
 Install my-project with npm
